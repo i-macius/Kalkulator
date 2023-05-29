@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator.csproj": {}
+    "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Aplikacja Kalkulator\\Kalkulator\\Kalkulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator.csproj": {
+    "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Aplikacja Kalkulator\\Kalkulator\\Kalkulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator.csproj",
+        "projectUniqueName": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Aplikacja Kalkulator\\Kalkulator\\Kalkulator.csproj",
         "projectName": "Kalkulator",
-        "projectPath": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator.csproj",
+        "projectPath": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Aplikacja Kalkulator\\Kalkulator\\Kalkulator.csproj",
         "packagesPath": "C:\\Users\\spide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Kalkulator\\Kalkulator\\Kalkulator\\obj\\",
+        "outputPath": "C:\\Users\\spide\\OneDrive\\Pulpit\\Kalkulator\\Aplikacja Kalkulator\\Kalkulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spide\\AppData\\Roaming\\NuGet\\NuGet.Config",
